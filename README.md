@@ -10,6 +10,4 @@ CustomDLLclass
 CustomStringClass
 
 2026-
-Linear Regression 1
-Linear Regression 2
-Linear Regression with Regularization
+Linear Regression Collection
