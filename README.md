@@ -10,4 +10,4 @@ CustomDLLclass
 CustomStringClass
 
 2026-
-Linear Regression Collection
+Linear Regression Collection, Logistic Regression, SVM and SVR
