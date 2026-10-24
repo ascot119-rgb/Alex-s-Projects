@@ -10,4 +10,4 @@ CustomDLLclass
 CustomStringClass
 
 2026-
-Linear Regression Collection, Logistic Regression, SVM and SVR
+Linear Regression Collection, Logistic Regression, SVM and SVR, Pytorch Regression, Basic Neural Networks
